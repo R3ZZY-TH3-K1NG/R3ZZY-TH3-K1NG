@@ -3,4 +3,4 @@
 
   $$\color{purple}{\text{' ' My dearest nightshade ' '}}$$
 
-                                           $$\color{purple}{\text{' ' Where hav you gone? ' '}}$$
+$$\color{purple}{\text{' ' Where have you gone? ' '}}$$
