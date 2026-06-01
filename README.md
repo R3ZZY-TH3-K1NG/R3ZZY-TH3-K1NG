@@ -1,3 +1,5 @@
-## [🩸🔪] Heeey HEYLOO POOKS [🩸🔪]
+<img width="503" height="100" alt="images (1)" src="https://github.com/user-attachments/assets/e532b8d9-93d2-4ff2-8ec1-403f60bb6e91" />
 
-<img width="1200" height="675" alt="e6dc41f5b46995461e88ee38659447dc" src="https://github.com/user-attachments/assets/ad793cfe-b46f-4f88-99f4-b9d9f2b72638" />
+
+                     ```diff
+  @@ ' ' My dearest Nightshade.. ' ' @@
