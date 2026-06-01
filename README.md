@@ -1,8 +1,6 @@
  
-<p align="center">
-  <img src="<img width="503" height="100" alt="images (1)" src="https://github.com/user-attachments/assets/475ed32b-16b7-4abf-85b4-b69f0c586605" />
-" alt="Alt Text">
-</p>
+<img width="503" height="100" alt="images (1)" src="https://github.com/user-attachments/assets/51d25baf-0020-4cf4-921e-a943d529bdcb" />
+
 
 
 
