@@ -4,9 +4,18 @@
 
 
 
+
+
   $$\color{purple}{\text{' ' My dearest nightshade ' '}}$$
 
 $$\color{purple}{\text{' ' Where have you gone? ' '}}$$
+
+
+
+
+
+
+[![Spotify Now Playing](https://your-vercel-app-name.vercel.app/api)](https://spotify.com)
 
 
   <img width="2048" height="1280" alt="wp15511795" src="https://github.com/user-attachments/assets/fe035695-2770-4255-a571-07e5fb2132a3" />
