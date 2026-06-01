@@ -1,5 +1,7 @@
  
-   width="503" height="100" alt="images (1)" src="https://github.com/user-attachments/assets/e532b8d9-93d2-4ff2-8ec1-403f60bb6e91" />" alt="Alt Text">
+<p align="center">
+  <img src="<img width="503" height="100" alt="images (1)" src="https://github.com/user-attachments/assets/475ed32b-16b7-4abf-85b4-b69f0c586605" />
+" alt="Alt Text">
 </p>
 
 
