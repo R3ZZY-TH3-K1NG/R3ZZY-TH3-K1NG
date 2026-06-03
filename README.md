@@ -21,7 +21,8 @@ $$\color{red}{\text{' ' OHMYGOD I'm LITERALLY INSANE HAHAHAHAHA- ' '}}$$
 
 
 
-<img width="120" height="342" alt="download" src="https://github.com/user-attachments/assets/7a218f1e-d8a9-4860-835c-12cf384820dc" />
+<img width="120" height="342" alt="download" src="https://github.com/user-attachments/assets/7a218f1e-d8a9-4860-835c-12cf384820dc" /> <img src="https://static.wikia.nocookie.net/deltarune/images/e/e4/Tenna_battle.gif/revision/latest/scale-to-width/360?cb=20250718080332" alt="Tenna | Deltarune Wiki | Fandom"/><img width="360" height="556" alt="image" src="https://github.com/user-attachments/assets/739dd89e-24f3-445c-be82-3bbe51fe6740" />
+
 
 
 ' ' INTERNET KILLED THE VIDEO STAR!! ' '
