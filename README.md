@@ -1,14 +1,15 @@
  
-<img width="503" height="100" alt="images (1)" src="https://github.com/user-attachments/assets/51d25baf-0020-4cf4-921e-a943d529bdcb" />
+<img width="352" height="143" alt="download (2)" src="https://github.com/user-attachments/assets/bc09b129-c095-4f6c-a708-b8136979b111" />
 
 
 
 
 
 
-  $$\color{purple}{\text{' ' My dearest nightshade ' '}}$$
 
-$$\color{purple}{\text{' ' Where have you gone? ' '}}$$
+  $$\color{pink}{\text{' ' TV TIME!!! ' '}}$$
+
+$$\color{pink}{\text{' ' OHMYGOD I'm LITERALLY INSANE HAHAHAHAHA- ' '}}$$
 
 
 
