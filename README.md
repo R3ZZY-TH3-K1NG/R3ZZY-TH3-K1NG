@@ -12,14 +12,17 @@
 $$\color{pink}{\text{' ' OHMYGOD I'm LITERALLY INSANE HAHAHAHAHA- ' '}}$$
 
 
+<img align="right" width="200" src="<img width="400" height="400" alt="2816538_453b4" src="https://github.com/user-attachments/assets/dd7875bb-2113-421b-8f0c-668dfe61c33f" />
+">
+
+### My Project Title
+BOOOOOOO! HEHHEHEHE
+
+<br clear="right"/>
+
+This text starts under the image once the layout clears.
 
 
-
-
-
-
-
-  <img width="2048" height="1280" alt="wp15511795" src="https://github.com/user-attachments/assets/fe035695-2770-4255-a571-07e5fb2132a3" />
 
 
 
