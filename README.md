@@ -4,7 +4,8 @@ $\color{lightgreen}{\text{Wowowowowowowowowwwwwwwwwwww UGH!!}}$
 
 
 
-<p align="center">
-  <img src="<img width="611" height="343" alt="image" src="https://github.com/user-attachments/assets/e119db42-5eb1-48a9-a2d8-e3c70411334d" />
-" alt="Woooooooow" width="500">
-</p>
+<div align="center">
+  <img src="<img width="611" height="343" alt="image" src="https://github.com/user-attachments/assets/19c6e9c2-aafa-4274-a460-087e4a5a573a" />
+" alt="Description of image">
+</div>
+
