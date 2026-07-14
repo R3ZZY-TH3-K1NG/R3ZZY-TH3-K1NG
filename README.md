@@ -6,6 +6,6 @@ $\color{lightgreen}{\text{Wowowowowowowowowwwwwwwwwwww UGH!!}}$
 
 <div align="center">
   <img src="<img width="611" height="343" alt="image" src="https://github.com/user-attachments/assets/19c6e9c2-aafa-4274-a460-087e4a5a573a" />
-" alt="Description of image">
+" alt="">
 </div>
 
