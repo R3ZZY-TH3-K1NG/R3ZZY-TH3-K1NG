@@ -1,5 +1,5 @@
-$\color{lightgreen}{\text{Wowowowowowowowowwwwwwwwwwww UGH!!}}$
-<img width="611" height="343" alt="image" src="https://github.com/user-attachments/assets/459eac6a-7f7c-4f71-b8a4-0d8f80f2bfb2" />
+$\color{lightblue}{\text{Wowow I love Garcello!!}}$
 
+-------------------------------
 
-Absolutely 2 lazy to add all the coding to make it pretty so-
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/c27aa2a7-89d8-408a-9fc6-ae15cb1cb879" />
